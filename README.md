@@ -17,6 +17,6 @@
    * Script : `pinger.vbs`
 #### 6. System Monitor:
    * Retrieves out some info for you...
-   * Script : `syschk.sh`
+   * Script : `sysmon.sh`
    * Usage : `./sysmon.sh “filename/directory”`
    * For example : `./sysmon.sh inst4p4wn.sh`
