@@ -19,4 +19,4 @@
    * Retrieves out some info for you...
    * Script : `sysmon.sh`
    * Usage : `./sysmon.sh “filename/directory”`
-   * For example : `./sysmon.sh inst4p4wn.sh`
+   * For example : `./sysmon.sh inst4cr4ck.sh`
